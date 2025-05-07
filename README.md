@@ -20,8 +20,8 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ```
-NAME: ATCHAYA.K
-REGISTER NO: 212223220011
+NAME: jenil pio j
+REGISTER NO: 212223220040
 ```
 
 ## ARP Attacks:  
