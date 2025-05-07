@@ -58,10 +58,3 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
-
-
-
-
-
-
-
